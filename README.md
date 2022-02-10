@@ -1,1 +1,1 @@
-# Harshad-number
+# Kaprekar-Number
